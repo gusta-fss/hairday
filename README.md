@@ -1,0 +1,2 @@
+# 🚀 Projeto HairDay
+Projeto desenvolvido no curso Full-Stack da RocketSeat, que consiste na aplicação de técnicas HTML, CSS e JavaScript para criação de uma página web de agendamento de horários em um salão de beleza chamado HairDay.
